@@ -7,6 +7,8 @@ body {
   margin: auto;
 }
 
+/* nav bar */
+
 div ul {
   display: inline-block;
 }
@@ -31,4 +33,16 @@ ul li:first-child {
   float: right;
   border: solid black 1px;  
     
+}
+
+
+/* pizza image and articles */
+
+main {
+  margin-top: 20px;
+}
+
+section p {
+  text-indent: 20px;
+  padding: 10px;
 }
