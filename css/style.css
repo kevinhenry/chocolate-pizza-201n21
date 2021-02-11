@@ -42,7 +42,7 @@ section p {
   text-indent: 20px;
   padding: 10px;
 }
-<<<<<<< HEAD
+
 
 footer {
   font-family: 'Patrick Hand', cursive;
@@ -50,7 +50,7 @@ footer {
   float: right;
   width: 100%;
   height: 35px;
-=======
+}
 /* ingredients stuff */
 
 #list-bg{
@@ -69,5 +69,4 @@ footer {
   margin: 40px;
   font-size: x-large;
   font-family: 'Patrick Hand', cursive;
->>>>>>> 1537c28de52e6aeadf45c0de119f798e4fb784de
 }
